@@ -1,0 +1,16 @@
+pandas
+fastapi
+xgboost
+scikit-learn
+joblib
+scipy
+certifi
+python-multipart
+openpyxl
+PyYAML
+rapidfuzz
+phonetics
+tqdm
+transformers
+torch
+sentencepiece
